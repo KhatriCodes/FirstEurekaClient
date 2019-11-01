@@ -8,3 +8,6 @@ http://SecondEurekaClient/secondClient
 * Need to add Eureka Discovery dependency
 * In main class we have to @EnableEurekaClient annotation.
 * In YAML file we have to keep Application name, server port, registry with eureka as true, eureka server URL in service URL
+
+**SecondEurekaClient API call from FirstEurekaClient**
+![BD](https://github.com/KhatriCodes/FirstEurekaClient/blob/master/FirstEurekaClientCall.png)
